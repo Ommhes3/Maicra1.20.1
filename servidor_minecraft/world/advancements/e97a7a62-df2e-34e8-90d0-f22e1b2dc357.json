@@ -1482,9 +1482,21 @@
     },
     "done": true
   },
+  "mowziesmobs:sculptor_failure": {
+    "criteria": {
+      "sculptor_failure": "2025-04-14 03:03:27 +0000"
+    },
+    "done": true
+  },
   "ashes1ashes:nadvance": {
     "criteria": {
       "nadvance": "2025-04-14 02:47:22 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sculptor_challenge": {
+    "criteria": {
+      "sculptor_challenge": "2025-04-14 03:12:00 +0000"
     },
     "done": true
   },
